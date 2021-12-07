@@ -11,7 +11,7 @@ namespace Gabriel.Models
         public string Id { get; set; } = Guid.NewGuid().ToString();
         public string Name { get; set; }
         public string Email { get; set; }
-        public int Price { get; set; } = 4000;
+        public int Price { get; set; } = 100;
         public DateTime CreatedAt { get; set; } = DateTime.Now;
 
     }

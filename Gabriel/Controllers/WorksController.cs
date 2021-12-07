@@ -69,7 +69,7 @@ namespace Gabriel.Controllers
             }
             ViewData["error"] = response.Message;
 
-            return View();
+            return RedirectToAction("Payment");
         }
 
 
@@ -86,7 +86,7 @@ namespace Gabriel.Controllers
                     transaction.Status = true;
                     _context.Transactions.Update(transaction);
                     await _context.SaveChangesAsync();
-                    return Redirect("");
+                    return Redirect("https://drive.google.com/file/d/1qALHqXVEt2MTjB0XbJy5-B0wq3-RsT1C/view?ts=61a99582");
                 }
             }
             ViewData["error"] = response.Data.GatewayResponse;
