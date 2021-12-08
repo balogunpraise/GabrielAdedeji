@@ -9,3 +9,4 @@ C:\Users\hp\source\repos\Gabriel\Gabriel.Models\obj\Debug\net5.0\Gabriel.Models.
 C:\Users\hp\source\repos\Gabriel\Gabriel.Models\obj\Debug\net5.0\Gabriel.Models.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel.Models\obj\Debug\net5.0\ref\Gabriel.Models.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel.Models\obj\Debug\net5.0\Gabriel.Models.pdb
+C:\Users\hp\source\repos\Gabriel\Gabriel.Models\obj\Debug\net5.0\Gabriel.Models.csproj.AssemblyReference.cache

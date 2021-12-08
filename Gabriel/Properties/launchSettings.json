@@ -4,6 +4,7 @@
     "anonymousAuthentication": true,
     "iisExpress": {
       "applicationUrl": "http://localhost:26283",
+      //"applicationUrl": "https://gabrieladedeji.com/",
       "sslPort": 44338
     }
   },
@@ -20,6 +21,7 @@
       "dotnetRunMessages": "true",
       "launchBrowser": true,
       "applicationUrl": "https://localhost:5001;http://localhost:5000",
+      //"applicationUrl": "https://gabrieladedeji.com/",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

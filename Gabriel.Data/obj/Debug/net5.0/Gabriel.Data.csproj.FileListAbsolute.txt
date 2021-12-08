@@ -12,3 +12,4 @@ C:\Users\hp\source\repos\Gabriel\Gabriel.Data\obj\Debug\net5.0\Gabriel.Data.cspr
 C:\Users\hp\source\repos\Gabriel\Gabriel.Data\obj\Debug\net5.0\Gabriel.Data.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel.Data\obj\Debug\net5.0\ref\Gabriel.Data.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel.Data\obj\Debug\net5.0\Gabriel.Data.pdb
+C:\Users\hp\source\repos\Gabriel\Gabriel.Data\obj\Debug\net5.0\Gabriel.Data.csproj.CopyComplete
