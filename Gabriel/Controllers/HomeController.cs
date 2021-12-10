@@ -1,6 +1,9 @@
-﻿using Gabriel.Models;
+﻿using Gabriel.Data;
+using Gabriel.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Gabriel.Controllers
 {
@@ -12,9 +15,19 @@ namespace Gabriel.Controllers
         {
             _logger = logger;
         }*/
+        private readonly DatabaseContext context;
+        public HomeController(DatabaseContext context)
+        {
+            this.context = context;
+        }
 
+
+
+        [HttpGet]
         public IActionResult Index()
         {
+            var items = context.Sheets.ToList();
+            ViewData["Items"] = items;
             return View();
         }
 

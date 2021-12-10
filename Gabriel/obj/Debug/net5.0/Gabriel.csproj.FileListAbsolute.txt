@@ -23,8 +23,6 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetC
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -109,8 +107,6 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensi
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -389,3 +385,17 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\Gabriel.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\ref\Gabriel.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\Gabriel.pdb
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\Gabriel.genruntimeconfig.cache
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\Razor\Views\Dashboard\AddBook.cshtml.g.cs
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Debug\net5.0\Razor\Views\Auth\Register.cshtml.g.cs
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

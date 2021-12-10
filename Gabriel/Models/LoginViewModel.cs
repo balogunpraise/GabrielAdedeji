@@ -4,9 +4,10 @@ namespace Gabriel.Models
 {
     public class LoginViewModel
     {
-        [Required]
-        public string Email { get; set; }
-        [Required]
+        
+        [Required(ErrorMessage = "Enter a valid username adress")]
+        public string UserName { get; set; }
+        [Required(ErrorMessage ="Enter a valid password")]
         public string Password { get; set; }
     }
 }
