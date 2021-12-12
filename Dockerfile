@@ -1,14 +1,16 @@
 # syntax=docker/dockerfile:1
 FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build-env
-WORKDIR /Gabriel
-
+WORKDIR /app
+COPY *.sln ./
 # Copy csproj and restore as distinct layers
-COPY *.csproj ./
+#COPY *.csproj ./
 
-RUN dotnet restore "./Gabriel/Gabriel.csproj"
+COPY ["Gabriel/Gabriel.csproj", "Gabriel/"]
+
+RUN dotnet restore "Gabriel/Gabriel.csproj"
 
 # Copy everything else and build
-COPY * ./
+COPY . ./
 RUN dotnet publish -c Release -o out
 
 # Build runtime image
