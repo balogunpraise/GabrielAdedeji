@@ -6,6 +6,7 @@ COPY *.sln ./
 #COPY *.csproj ./
 
 COPY ["Gabriel/Gabriel.csproj", "Gabriel/"]
+#COPY ["Gabriel/Gabriel.Db", "Gabriel/"]
 
 RUN dotnet restore "Gabriel/Gabriel.csproj"
 
