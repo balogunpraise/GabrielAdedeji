@@ -252,8 +252,6 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Micr
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.CookiePolicy.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cors.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
@@ -338,8 +336,6 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Micr
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Hosting.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Hosting.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Http.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Identity.Core.dll
-C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Localization.Abstractions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Localization.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Microsoft.Extensions.Logging.Abstractions.dll
@@ -520,6 +516,10 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\refs\Wind
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Gabriel.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Gabriel.runtimeconfig.json
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Gabriel.pdb
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.AspNetCore.Razor.Language.dll
@@ -534,6 +534,13 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Sqlite.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Core.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\PayStack.Net.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\SQLitePCLRaw.batteries_v2.dll
@@ -541,6 +548,7 @@ C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\SQLitePCL
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\SQLitePCLRaw.core.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\SQLitePCLRaw.provider.dynamic_cdecl.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\hp\source\repos\Gabriel\Gabriel\obj\Release\net5.0\PubTmp\Out\es\Microsoft.CodeAnalysis.resources.dll
