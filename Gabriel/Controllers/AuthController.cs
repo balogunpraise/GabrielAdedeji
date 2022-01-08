@@ -57,7 +57,6 @@ namespace Gabriel.Controllers
                     claims: authClaims,
                     signingCredentials: new SigningCredentials(authSigninKey, SecurityAlgorithms.HmacSha256)
                     );
-                //return Redirect("https://localhost:5001/dashboard/addbook");
                 return RedirectToAction("AddBook", "Dashboard");
             }
             return View();
