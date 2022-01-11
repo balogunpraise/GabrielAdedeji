@@ -10,6 +10,11 @@ COPY ["Gabriel/Gabriel.csproj", "Gabriel/"]
 
 RUN dotnet restore "Gabriel/Gabriel.csproj"
 
+COPY ["Gabriel.Data/Gabriel.Data.csproj", "Gabriel.Data/"]
+RUN dotnet restore "Gabriel.Data/Gabriel.Data.csproj"
+COPY ["Gabriel.Models/Gabriel.Models.csproj", "Gabriel.Models/"]
+RUN dotnet restore "Gabriel.Models/Gabriel.Models.csproj"
+
 # Copy everything else and build
 COPY . ./
 RUN dotnet publish -c Release -o out
