@@ -1,0 +1,21 @@
+name: gabriel
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: setting gabriel
+      env:
+        HEROKU_API_KEY: 051b045d-275d-434e-bbeb-6045bd6347af
+        APP_NAME: gabriel
+      run: |
+        docker build -t gabriel .
+        docker tag gabriel registry.heroku.com
+        docker login --username=_ --password=$HEROKU_API_KEY registry.heroku.com
+        heroku container:push web -a $APP_NAME
+        heroku container:release web -a $APP_NAME
