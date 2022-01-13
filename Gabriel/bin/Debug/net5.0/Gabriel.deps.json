@@ -33,12 +33,13 @@
     ".NETCoreApp,Version=v5.0": {
       "Gabriel/1.0.0": {
         "dependencies": {
-          "Gabriel.Data": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.10",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10",
           "Microsoft.AspNetCore.Mvc.Abstractions": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.10",
           "Microsoft.EntityFrameworkCore": "5.0.10",
           "Microsoft.EntityFrameworkCore.Design": "5.0.10",
+          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.10",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.10",
           "Paystack.Net": "0.7.7",
           "System.IdentityModel.Tokens.Jwt": "6.15.0",
@@ -1780,31 +1781,6 @@
           "System.Text.Encoding": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
-        }
-      },
-      "Gabriel.Data/1.0.0": {
-        "dependencies": {
-          "Gabriel.Models": "1.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10",
-          "Microsoft.EntityFrameworkCore": "5.0.10",
-          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.10"
-        },
-        "runtime": {
-          "Gabriel.Data.dll": {}
-        },
-        "compile": {
-          "Gabriel.Data.dll": {}
-        }
-      },
-      "Gabriel.Models/1.0.0": {
-        "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.10"
-        },
-        "runtime": {
-          "Gabriel.Models.dll": {}
-        },
-        "compile": {
-          "Gabriel.Models.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -4456,16 +4432,6 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "path": "system.xml.xmldocument/4.3.0",
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
-    },
-    "Gabriel.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Gabriel.Models/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
       "type": "referenceassembly",
